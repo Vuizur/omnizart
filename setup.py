@@ -59,7 +59,7 @@ install_requires = \
  'pillow>=8.3.2,<9.0.0',
  'pretty_midi>=0.2.9,<0.3.0',
  'pyfluidsynth>=1.2.5,<2.0.0',
- 'pyyaml>=5.3.1,<6.0.0',
+ 'pyyaml>=5.3.1',
  'spleeter>=2.3.0,<3.0.0',
  'tensorflow==2.5.0',
  'tqdm>=4.49.0,<5.0.0',
